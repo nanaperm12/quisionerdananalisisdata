@@ -1,0 +1,6 @@
+{
+  "name": "Kuesioner Penelitian Tesis - MTs Swasta Sumedang",
+  "description": "Sistem Aplikasi Pengisian Kuesioner Tesis Guru MTs Swasta Sumedang dengan Manajemen CRUD Butir Soal dan Export Rekapitulasi PDF/Excel untuk Analisis Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
